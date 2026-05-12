@@ -11,7 +11,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-A diligent, hardworking and proactive software developer with a passion for programming. Skilled in Python, Java, C#, JavaScript, HTML and CSS, with experience using development tools including Visual Studio, Unity and Unreal Engine. AWS Certified Cloud Practitioner seeking an entry level software development role to apply technical skills and continue developing within a professional environment.  
+A diligent, hardworking and proactive software developer with a passion for programming. Fundamentally skilled in Python, Java, C#, JavaScript, HTML and CSS, with experience using development tools including Visual Studio, Unity and Unreal Engine. AWS Certified Cloud Practitioner seeking an entry level software development role to apply technical skills and continue developing within a professional environment.  
 </p>
 
 ---

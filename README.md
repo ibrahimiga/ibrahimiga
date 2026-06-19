@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-<a href="https://github.com/ibrahimiga/ibrahimiga/"><h2>View My GitHub Portfolio</h2></a> (Under construction)
+<a href="https://github.com/ibrahimiga?tab=repositories"><h2>View My GitHub Portfolio</h2></a>
 </div>
 
 ---
